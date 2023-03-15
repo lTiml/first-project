@@ -1,0 +1,5 @@
+.table__cell {
+	margin-top: 60px;
+	flex-basis: 250px;
+	z-index: 1;
+}
